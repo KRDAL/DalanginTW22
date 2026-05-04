@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f0f0f0;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    padding: 40px 20px;
+}
+
+.resume-container {
+    background: #fff;
+    width: 210mm;
+    min-height: 297mm;
+    display: flex;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+.sidebar {
+    background-color: #ffffff;
+    width: 38%;
+    padding: 40px 30px;
+    border-right: 1px solid #eee;
+}
+
+.profile-image-box {
+    width: 100%;
+    aspect-ratio: 1/1;
+    background-color: #e0e0e0;
+    margin-bottom: 40px;
+    overflow: hidden;
+    border: 1px solid #ddd;
+}
+
+.profile-image-box img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.section-title {
+    font-size: 1rem;
+    letter-spacing: 2px;
+    border-bottom: 2px solid #000;
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+}
+
+.skills-list {
+    list-style: none;
+    font-size: 0.85rem;
+    line-height: 1.6;
+    margin-bottom: 30px;
+}
+
+.edu-item { margin-bottom: 15px; }
+
+.edu-school {
+    font-weight: bold;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+}
+
+.edu-years { font-size: 0.8rem; color: #666; }
+
+.contact-text { font-size: 0.85rem; margin-bottom: 5px; }
+
+.main-content {
+    width: 62%;
+    padding: 60px 45px;
+}
+
+.name-header h1 {
+    font-size: 3.5rem;
+    line-height: 0.85;
+    font-weight: 900;
+    margin: 0;
+}
+
+.last-name { margin-bottom: 40px; }
+
+.bio-section {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin-bottom: 50px;
+    color: #444;
+    text-align: justify;
+}
+
+.main-section-title {
+    font-size: 1.2rem;
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.main-skills-list {
+    list-style: none;
+}
+
+.main-skills-list li {
+    font-weight: bold;
+    font-size: 1rem;
+    margin-bottom: 12px;
+}
