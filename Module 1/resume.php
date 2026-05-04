@@ -40,7 +40,7 @@ $education = [
     <div class="resume-container">
         <aside class="sidebar">
             <div class="profile-image-box">
-                <img src="https://via.placeholder.com/300" alt="Profile Picture">
+                <img src="Screenshot 2026-05-04 113857.png" alt="Profile Picture">
             </div>
 
             <section class="section">
