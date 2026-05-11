@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Detailed Student Registration</title>
+    <title>Student Registration</title>
     <style>
         body { font-family: 'Courier New', Courier, monospace; background-color: #f0f0f0; padding: 30px; }
         .form-output { background: #fff; max-width: 800px; margin: auto; padding: 40px; border: 2px solid #333; box-shadow: 10px 10px 0px #888; }
