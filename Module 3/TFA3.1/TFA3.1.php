@@ -147,6 +147,5 @@ usort($students, function($itemA, $itemB) {
         ?>
     </tbody>
 </table>
-
 </body>
 </html>

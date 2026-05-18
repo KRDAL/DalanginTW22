@@ -73,6 +73,5 @@ for ($i = 1; $i < count($dataset); $i++) {
         <td><?php echo $divResult; ?></td>
     </tr>
 </table>
-
 </body>
 </html>

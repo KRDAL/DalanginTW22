@@ -53,6 +53,6 @@ function evaluateThreeParameters($param1, $param2, $param3) {
 }
 evaluateThreeParameters(25, 13, 6);
 ?>
-
 </body>
 </html>
+
