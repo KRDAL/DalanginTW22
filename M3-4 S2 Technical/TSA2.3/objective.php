@@ -1,0 +1,1 @@
+<h3>Career Objective</h3><p>I am a dedicated BSIT student specializing in Web and Mobile Application development. I am passionate about creating seamless user experiences and building responsive applications, seeking an opportunity to apply my technical skills in a professional development environment.</p>

@@ -1,0 +1,1 @@
+<h3>Technical Skills</h3><ul><li>HTML & CSS</li><li>PHP</li><li>SQL Database</li><li>C++</li><li>UI Design</li></ul>

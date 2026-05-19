@@ -1,0 +1,1 @@
+<h3>Software & Tools</h3><ul><li>Photo editing and digital illustration software</li><li>Tracking & analytics tools</li><li>Word processors</li></ul>

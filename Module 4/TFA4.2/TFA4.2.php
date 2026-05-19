@@ -34,7 +34,7 @@
             "allayssa", "karlo", "steven", "lavi", "mikaella", 
             "shawn", "james", "gabriel", "ashley", "andrei", 
             "bonn", "fhilip", "joshua", "ronald", "benedict", 
-            "Archiel", "Kuristin", "bryan", "oliver", "katherine"
+            "archiel", "Kuristin", "bryan", "oliver", "katherine"
         ];
 
         foreach ($names as $name) {

@@ -1,0 +1,1 @@
+<h3>Experience</h3><p>Student Developer specializing in responsive web design and database integration, currently focusing on building modular applications using PHP architecture.</p>
